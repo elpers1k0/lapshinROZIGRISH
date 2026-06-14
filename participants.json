@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Иван Иванов", "contact": "ivan@example.com" },
+  { "id": 2, "name": "Петр Петров", "contact": "petr@example.com" },
+  { "id": 3, "name": "Мария Смирнова", "contact": "maria@example.com" },
+  { "id": 4, "name": "Анна Кузнецова", "contact": "anna@example.com" },
+  { "id": 5, "name": "Алексей Соколов", "contact": "aleksey@example.com" }
+]

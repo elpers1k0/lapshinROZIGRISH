@@ -1,0 +1,11 @@
+{
+  "name": "prize-draw-system",
+  "version": "1.0.0",
+  "description": "Курсовой проект: Система для розыгрыша призов",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Студент",
+  "license": "ISC"
+}
